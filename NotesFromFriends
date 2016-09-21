@@ -19,8 +19,9 @@ public class Solution {
             friends[friends_i] = in.nextInt();
 
         }
-        for(int a =1; a < k; a++){
-            if(s.charAt(friends[a-1])=='1'){
+        for(int a =0; a < k; a++){
+            //System.out.println((friends[a]));
+            if(s.charAt(friends[a]-1)=='1'){
                 continue;
             }
             else{
