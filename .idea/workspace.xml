@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88d17817-86d8-444c-a94b-dc2f735eb1b6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview Questions/src/Palindrome.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview Questions/src/StringBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview Questions/src/StringPermutation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview Questions/src/StringRemake.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview Questions/src/UniquecharString.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PalindromeCheck" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StringsRemake" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CodingInterview.iml" afterPath="$PROJECT_DIR$/Interview Questions/CodingInterview.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/NotesFromFriends" afterPath="$PROJECT_DIR$/Interview Questions/src/NotesFromFriends.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/Interview Questions/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interview Questions/src/URLfy.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CodingInterview.iws" />
@@ -59,12 +47,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringRemake.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Interview Questions/src/StringRemake.java">
+      <file leaf-file-name="StringBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Interview Questions/src/StringBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-              <folding />
+            <state relative-caret-position="329">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,13 +72,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringPermutation.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StringPermutation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Interview Questions/src/StringPermutation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="275">
               <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="URLfy.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Interview Questions/src/URLfy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+              <folding>
+                <element signature="e#881#882#0" expanded="true" />
+                <element signature="e#939#940#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -123,6 +126,7 @@
         <option value="$PROJECT_DIR$/Interview Questions/src/StringRemake.java" />
         <option value="$PROJECT_DIR$/Interview Questions/src/UniquecharString.java" />
         <option value="$PROJECT_DIR$/Interview Questions/src/StringPermutation.java" />
+        <option value="$PROJECT_DIR$/Interview Questions/src/URLfy.java" />
       </list>
     </option>
   </component>
@@ -245,7 +249,7 @@
       <recent name="$PROJECT_DIR$/Interview Questions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringPermutation">
+  <component name="RunManager" selected="Application.URLfy">
     <configuration default="false" name="StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="StringBuilder" />
@@ -279,6 +283,21 @@
     <configuration default="false" name="UniquecharString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="UniquecharString" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Interview questions" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="URLfy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="URLfy" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -535,16 +554,18 @@
       <listeners />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.StringBuilder" />
       <item index="1" class="java.lang.String" itemvalue="Application.StringPermutation" />
       <item index="2" class="java.lang.String" itemvalue="Application.UniquecharString" />
+      <item index="3" class="java.lang.String" itemvalue="Application.URLfy" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.StringPermutation" />
-        <item index="1" class="java.lang.String" itemvalue="Application.UniquecharString" />
-        <item index="2" class="java.lang.String" itemvalue="Application.StringBuilder" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.URLfy" />
+        <item index="1" class="java.lang.String" itemvalue="Application.StringPermutation" />
+        <item index="2" class="java.lang.String" itemvalue="Application.UniquecharString" />
+        <item index="3" class="java.lang.String" itemvalue="Application.StringBuilder" />
       </list>
     </recent_temporary>
   </component>
@@ -587,7 +608,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -721,21 +742,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Interview Questions/src/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Interview Questions/src/StringRemake.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview Questions/src/StringPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -750,12 +771,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Interview Questions/src/StringPermutation.java">
+    <entry file="file://$PROJECT_DIR$/Interview Questions/src/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        <state relative-caret-position="329">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interview Questions/src/URLfy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <folding>
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#939#940#0" expanded="true" />
           </folding>
         </state>
       </provider>
